@@ -51,7 +51,7 @@ Some example use cases include:
 - Pre-built machine learning models
 - Your NPM module or PyPI package?
 
-Check out the [showcase](https://saasify.sh/#/showcase) for more live examples of projects which have been saasified.
+Check out the [showcase](https://docs.saasify.sh/#/showcase) for more live examples of projects which have been saasified.
 
 Have an idea that you'd like to monetize, but not sure where to start? Feel free to connect on our open [Slack](https://slack.saasify.sh). ✌️
 
